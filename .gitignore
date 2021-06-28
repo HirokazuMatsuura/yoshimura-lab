@@ -1,0 +1,9 @@
+conn_dir/
+copy-impact2020/
+impact2020/
+md/
+other/
+public/csv/*/*
+public/png/
+docker-compose.yml
+.DS_Store
